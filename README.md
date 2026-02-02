@@ -2,9 +2,9 @@
 
 This repository contains Java source code for our Object Oriented Programming coursework. The project includes three applications developed as part of the course requirements.
 
----
 
-## 👥 Group Members
+
+##  Group Members
 
 - OMONA EMMANUEL — VU-BSF-2503-1833-DAY  
 - VANESSAH NTABADDE — VU-BBC-2511-1563-DAY  
@@ -14,9 +14,9 @@ This repository contains Java source code for our Object Oriented Programming co
 
 ---
 
-## 📌 Applications Included
+##  Applications Included
 
-### 1️⃣ Automated Grading System
+### 1️ Automated Grading System
 - Console-based Java program  
 - Accepts 5 student scores  
 - Assigns grades and remarks  
@@ -24,9 +24,9 @@ This repository contains Java source code for our Object Oriented Programming co
 
 File: `OLevelGradingSystem.java`
 
----
 
-### 2️⃣ Vehicle Auction System
+
+### 2️ Vehicle Auction System
 - Console-based program  
 - Accepts vehicle details and bids  
 - Determines highest bidder  
@@ -34,18 +34,18 @@ File: `OLevelGradingSystem.java`
 
 File: `AuctionSystem.java`
 
----
 
-### 3️⃣ Student Registration System
+
+### 3️ Student Registration System
 - JavaFX desktop application  
 - Validates student data  
 - Stores records in CSV file  
 
 File: `StudentRegistrationFX.java`
 
----
 
-## ▶️ How to Run
+
+##  How to Run
 
 ### Console Programs
 
@@ -59,7 +59,7 @@ Run:
 java OLevelGradingSystem  
 java AuctionSystem  
 
----
+
 
 ### JavaFX Application
 
@@ -73,21 +73,21 @@ Run:
 
 java --module-path "path/to/javafx/lib" --add-modules javafx.controls StudentRegistrationFX
 
----
 
-## 💻 Requirements
+
+##  Requirements
 
 - Java JDK 21 or later  
 - JavaFX SDK (for GUI app)  
 
----
 
-## 📖 Notes
+
+##  Notes
 
 - Student data is saved in CSV format  
 - Screenshots and full documentation are in the coursework report  
 - Developed for academic purposes  
 
----
 
-✅ Thank you for reviewing our project!
+
+> Thank you for reviewing our project!
